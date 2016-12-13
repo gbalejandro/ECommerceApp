@@ -1,0 +1,17 @@
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.dll
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.pdb
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.dll
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.pdb
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.dll.mdb
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.dll.mdb
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.dll.mdb
+C:\Users\Alejandro\Source\Repos\ECommerceApp\ECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.dll.mdb
